@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.kaupenjoe.tutorialmod.TutorialMod"
+      "net.lite.tutorialmod.TutorialMod"
     ]
   },
   "mixins": [
