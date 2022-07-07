@@ -2,12 +2,18 @@
   "item.tutorialmod.mythril_ingot": "Mythril Ingot",
   "item.tutorialmod.mythril_nugget": "Mythril Nugget",
   "item.tutorialmod.raw_mythril": "Raw Mythril",
+  "item.tutorialmod.wooden_dowsing_rod": "Wooden Dowsing Rod",
+  "item.tutorialmod.stone_dowsing_rod": "Stone Dowsing Rod",
+  "item.tutorialmod.iron_dowsing_rod": "Iron Dowsing Rod",
+  "item.tutorialmod.diamond_dowsing_rod": "Diamond Dowsing Rod",
 
 
   "block.tutorialmod.mythril_block": "Mythril Block",
   "block.tutorialmod.mythril_ore": "Mythril Ore",
-  "itemGroup.tutorialmod.mythril": "Mythril Tab",
+  "itemGroup.tutorialmod.mythril": "Lite Mythril",
+  "itemGroup.tutorialmod.lite_tools": "Lite Tools",
   "block.tutorialmod.deepslate_mythril_ore": "Deepslate Mythril Ore",
   "block.tutorialmod.raw_mythril_block": "Raw Mythril Block",
-  "block.tutorialmod.netherrack_mythril_ore": "Netherrack Mythril Ore"
+  "block.tutorialmod.netherrack_mythril_ore": "Netherrack Mythril Ore",
+  "item.tutorialmod.dowsing_rod.no_valuables": "No Valuables Found!"
 }

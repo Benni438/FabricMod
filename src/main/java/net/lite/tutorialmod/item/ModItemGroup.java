@@ -11,5 +11,8 @@ public class ModItemGroup {
     public static final ItemGroup MYTHRIL = FabricItemGroupBuilder.build(new Identifier(TutorialMod.MOD_ID, "mythril"),
             () -> new ItemStack(ModItems.MYTHRIL_INGOT));
 
+    public static final ItemGroup Lite_Tools = FabricItemGroupBuilder.build(new Identifier(TutorialMod.MOD_ID, "lite_tools"),
+            () -> new ItemStack(ModItems.WOODEN_DOWSING_ROD));
+
 
 }

@@ -4,13 +4,11 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.lite.tutorialmod.TutorialMod;
 import net.lite.tutorialmod.item.ModItemGroup;
-import net.lite.tutorialmod.item.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
-import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
@@ -52,7 +50,7 @@ public class ModBlocks {
 
     public static final Block NETHERRACK_MYTHRIL_ORE = registerBlock("netherrack_mythril_ore",
             new Block(FabricBlockSettings.of(Material.STONE)
-                    .strength(5f)
+                    .strength(3f)
                     .requiresTool()
 
 
